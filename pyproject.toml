@@ -1,0 +1,9 @@
+[project]
+name = "hands-on-ai-engineering-python"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "ipython>=9.18.1",
+    "openai>=3.55.1",
+    "python-dotenv>=1.2.4",
+]
