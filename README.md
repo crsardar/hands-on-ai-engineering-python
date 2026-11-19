@@ -9,3 +9,8 @@ Project Setup:
     uv add openai python-dotenv ipython
 
     uv sync
+
+Install/Download Model To Ollama
+    
+    !ollama pull llama3.2
+
